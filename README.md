@@ -37,11 +37,4 @@ The goal of this project is to build a predictive model that estimates house pri
 - **pandas**: Data manipulation and analysis.
 - **numpy**: Numerical computing.
 - **matplotlib**: Plotting graphs.
-- **seaborn**: Statistical data visualization.
-- **scikit-learn**: Machine learning library for building models and evaluating them.
 
-## How to Run the Project
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/username/Bengaluru-House-Price-Prediction.git
